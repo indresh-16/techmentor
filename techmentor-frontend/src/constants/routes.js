@@ -1,0 +1,21 @@
+
+export const ROUTES = {
+  HOME: '/',
+  LOGIN: '/login',
+  REGISTER: '/register',
+  FORGOT_PASSWORD: '/forgot-password',
+  FEED: '/feed',
+  POST_DETAILS: '/posts/:id',
+  TOOLS: '/tools',
+  JOBS: '/jobs',
+  NEWS: '/news',
+  BOOKMARKS: '/bookmarks',
+  PROFILE: '/profile',
+  SUGGESTIONS: '/suggestions',
+  ADMIN: '/admin',
+  ADMIN_POSTS: '/admin/posts',
+  ADMIN_POST_EDITOR: '/admin/posts/:id',
+  ADMIN_CATEGORIES: '/admin/categories',
+  ADMIN_USERS: '/admin/users',
+  ADMIN_SUGGESTIONS: '/admin/suggestions',
+};
