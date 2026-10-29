@@ -1,0 +1,40 @@
+
+.category-violet {
+  color: #c4b5fd;
+  background: rgb(139 92 246 / 12%);
+}
+
+.category-blue {
+  color: #7dd3fc;
+  background: rgb(56 189 248 / 12%);
+}
+
+.category-green {
+  color: #86efac;
+  background: rgb(74 222 128 / 12%);
+}
+
+.category-orange {
+  color: #fdba74;
+  background: rgb(251 146 60 / 12%);
+}
+
+.category-icon-violet {
+  color: #c4b5fd;
+  background: rgb(139 92 246 / 12%);
+}
+
+.category-icon-blue {
+  color: #7dd3fc;
+  background: rgb(56 189 248 / 12%);
+}
+
+.category-icon-green {
+  color: #86efac;
+  background: rgb(74 222 128 / 12%);
+}
+
+.category-icon-orange {
+  color: #fdba74;
+  background: rgb(251 146 60 / 12%);
+}
